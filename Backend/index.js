@@ -8,7 +8,10 @@ import userRoute from "./route/user.route.js";
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+    origin:"https://bookstore-13nr.onrender.com",
+    credentials:true
+}))
 app.use(express.json());
 
 dotenv.config();
