@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "Adventure Tales",
+        "title": "Explore magical lands and brave heroes in each chapter.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 2,
+        "name": "Fairy Forest",
+        "title": "Whimsical creatures roam in this beautifully illustrated tale.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 3,
+        "name": "Mystery Island",
+        "title": "A thrilling story of secrets and discovery on a deserted isle.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 4,
+        "name": "Time Travelers",
+        "title": "Join the journey through time and space in this sci-fi epic.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 5,
+        "name": "Jungle Secrets",
+        "title": "Wild adventures await in the depths of the jungle.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 6,
+        "name": "Space Explorers",
+        "title": "Blast off into the stars with daring space adventurers.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 7,
+        "name": "Castle Chronicles",
+        "title": "Tales of knights, dragons, and kingdoms long forgotten.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 8,
+        "name": "Ocean Tales",
+        "title": "Dive into underwater mysteries and tales of mermaids.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 9,
+        "name": "Robot Rebellion",
+        "title": "Can humanity survive when machines rise against their makers?",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1746265683~exp=1746269283~hmac=2748f07f4734fd728eb40ee39d2caf7464622f54a79ca19144d7a35db1ac4e34&w=826"
+    },
+    {
+        "id": 1,
+        "name": "Mystic Lands",
+        "title": "An epic saga across forgotten worlds and ancient powers.",
+        "price": 73,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Secret of the Stars",
+        "title": "A galactic mystery unfolds with each turning page.",
+        "price": 48,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Dreamer’s Quest",
+        "title": "A young hero dares to dream beyond the impossible.",
+        "price": 15,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Enchanted Library",
+        "title": "Books that whisper secrets in the dead of night.",
+        "price": 60,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Knightfall",
+        "title": "Battles, honor, and betrayal in a crumbling kingdom.",
+        "price": 90,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 6,
+        "name": "The Hidden Map",
+        "title": "A cartographer's discovery sparks a world-changing journey.",
+        "price": 29,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Whispers in the Woods",
+        "title": "Dark secrets echo among the ancient trees.",
+        "price": 37,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Legends of Fire",
+        "title": "Myths reignite as dragons stir beneath the earth.",
+        "price": 82,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Echoes of Tomorrow",
+        "title": "Time fractures and futures collide in a race against fate.",
+        "price": 66,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 10,
+        "name": "The Clockmaker’s War",
+        "title": "Gears turn and destinies are forged in this steampunk epic.",
+        "price": 58,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Crimson Tides",
+        "title": "Sail the seas of blood and vengeance.",
+        "price": 71,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 12,
+        "name": "The Last Ember",
+        "title": "Hope flickers in the ashes of a fallen empire.",
+        "price": 36,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 13,
+        "name": "Frost Veil",
+        "title": "A winter curse traps a town in eternal ice.",
+        "price": 42,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 14,
+        "name": "The Phantom Ink",
+        "title": "Words come alive when written with this cursed pen.",
+        "price": 24,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    },
+    {
+        "id": 15,
+        "name": "Starlight Circus",
+        "title": "A magical circus only appears beneath shooting stars.",
+        "price": 54,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149329854.jpg?ga=GA1.1.1904465338.1746265624&w=740"
+    }
+]
